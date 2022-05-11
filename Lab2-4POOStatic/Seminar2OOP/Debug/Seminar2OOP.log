@@ -1,0 +1,55 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Seminar2OOP.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.c
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(29,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(31,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(33,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(59,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(61,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(63,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(66,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(68,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(70,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(84,53): warning C4047: 'function': 'char' differs in levels of indirection from 'char [20]'
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(84,43): warning C4024: 'sterge_cheltuiala': different types for formal and actual parameter 3
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(79,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(81,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(83,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(100,37): warning C4047: 'function': 'Lista *' differs in levels of indirection from 'Cheltuiala (*)[100]'
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(100,16): warning C4024: 'print_sortare': different types for formal and actual parameter 1
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(102,48): warning C4047: 'function': 'Lista *' differs in levels of indirection from 'Cheltuiala (*)[100]'
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(102,27): warning C4024: 'selectionSort_suma_cresc': different types for formal and actual parameter 1
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(104,37): warning C4047: 'function': 'Lista *' differs in levels of indirection from 'Cheltuiala (*)[100]'
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(104,16): warning C4024: 'print_sortare': different types for formal and actual parameter 1
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(112,37): warning C4047: 'function': 'Lista *' differs in levels of indirection from 'Cheltuiala (*)[100]'
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(112,16): warning C4024: 'print_sortare': different types for formal and actual parameter 1
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(114,51): warning C4047: 'function': 'Lista *' differs in levels of indirection from 'Cheltuiala (*)[100]'
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(114,30): warning C4024: 'selectionSort_suma_descresc': different types for formal and actual parameter 1
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(116,37): warning C4047: 'function': 'Lista *' differs in levels of indirection from 'Cheltuiala (*)[100]'
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(116,16): warning C4024: 'print_sortare': different types for formal and actual parameter 1
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(124,37): warning C4047: 'function': 'Lista *' differs in levels of indirection from 'Cheltuiala (*)[100]'
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(124,16): warning C4024: 'print_sortare': different types for formal and actual parameter 1
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(126,46): warning C4047: 'function': 'Lista *' differs in levels of indirection from 'Cheltuiala (*)[100]'
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(126,25): warning C4024: 'selectionSort_zi_cresc': different types for formal and actual parameter 1
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(128,37): warning C4047: 'function': 'Lista *' differs in levels of indirection from 'Cheltuiala (*)[100]'
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(128,16): warning C4024: 'print_sortare': different types for formal and actual parameter 1
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(136,37): warning C4047: 'function': 'Lista *' differs in levels of indirection from 'Cheltuiala (*)[100]'
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(136,16): warning C4024: 'print_sortare': different types for formal and actual parameter 1
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(138,49): warning C4047: 'function': 'Lista *' differs in levels of indirection from 'Cheltuiala (*)[100]'
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(138,28): warning C4024: 'selectionSort_zi_descresc': different types for formal and actual parameter 1
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(140,37): warning C4047: 'function': 'Lista *' differs in levels of indirection from 'Cheltuiala (*)[100]'
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(140,16): warning C4024: 'print_sortare': different types for formal and actual parameter 1
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\main.c(151,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  repo.c
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\repo.c(11,78): warning C4047: '==': 'char *' differs in levels of indirection from 'int'
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\repo.c(155,41): warning C4047: 'function': 'char' differs in levels of indirection from 'char [4]'
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\repo.c(155,36): warning C4024: 'sterge_cheltuiala': different types for formal and actual parameter 3
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\repo.c(168,47): warning C4047: 'function': 'Lista *' differs in levels of indirection from 'Cheltuiala (*)[100]'
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\repo.c(168,27): warning C4024: 'selectionSort_suma_cresc': different types for formal and actual parameter 1
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\repo.c(184,45): warning C4047: 'function': 'Lista *' differs in levels of indirection from 'Cheltuiala (*)[100]'
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\repo.c(184,25): warning C4024: 'selectionSort_zi_cresc': different types for formal and actual parameter 1
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\repo.c(200,50): warning C4047: 'function': 'Lista *' differs in levels of indirection from 'Cheltuiala (*)[100]'
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\repo.c(200,30): warning C4024: 'selectionSort_suma_descresc': different types for formal and actual parameter 1
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\repo.c(216,48): warning C4047: 'function': 'Lista *' differs in levels of indirection from 'Cheltuiala (*)[100]'
+C:\Users\Andra\source\repos\Lab2-4POOStatic\Seminar2OOP\repo.c(216,28): warning C4024: 'selectionSort_zi_descresc': different types for formal and actual parameter 1
+  Generating Code...
+  Seminar2OOP.vcxproj -> C:\Users\Andra\source\repos\Lab2-4POOStatic\Debug\Lab2-4POOStatic.exe
